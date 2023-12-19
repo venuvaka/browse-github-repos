@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Steps to run the Application
-
+- Download zip/Clone the project in your system with command `git clone https://github.com/venuvaka/browse-github-repos.git`.
 - Navigate to project directory in your command line.
 - run `npm install` command to install all packages from package.json
 - run `npm start` and open [http://localhost:3000](http://localhost:3000) to view it in the browser.
